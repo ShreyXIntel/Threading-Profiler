@@ -32,7 +32,7 @@ npm i
 
 npm run dev
 
-```
+
 
 thread-profiler/
 ├── src/                # Main source code
@@ -40,3 +40,4 @@ thread-profiler/
 ├── package.json        # Project metadata and scripts
 ├── .gitignore          # Ignored files and folders
 └── README.md           # Project documentation
+```
