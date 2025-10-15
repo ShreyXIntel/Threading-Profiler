@@ -32,6 +32,8 @@ npm i
 
 npm run dev
 
+```
+
 thread-profiler/
 ├── src/                # Main source code
 ├── public/             # Static assets
